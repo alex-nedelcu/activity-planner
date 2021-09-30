@@ -1,0 +1,47 @@
+{
+    "activities": [
+        {
+            "id": 9500,
+            "participants_ids": [
+                100,
+                150
+            ],
+            "date": {
+                "year": 2020,
+                "month": 12,
+                "day": 15
+            },
+            "time": 11,
+            "description": "clean the house"
+        },
+        {
+            "id": 7800,
+            "participants_ids": [
+                750,
+                200
+            ],
+            "date": {
+                "year": 2020,
+                "month": 11,
+                "day": 28
+            },
+            "time": 9,
+            "description": "study"
+        },
+        {
+            "id": 2150,
+            "participants_ids": [
+                350,
+                500,
+                100
+            ],
+            "date": {
+                "year": 2020,
+                "month": 12,
+                "day": 24
+            },
+            "time": 10,
+            "description": "shopping"
+        }
+    ]
+}
